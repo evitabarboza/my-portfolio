@@ -112,7 +112,7 @@ const Navbar = () => {
             <a className='font-Ovo' onClick={closeMenu} href="#about">About Me</a>
           </li>
           <li>
-            <a className='font-Ovo' onClick={closeMenu} href="#projects">Projects</a>
+            <a className='font-Ovo' onClick={closeMenu} href="#services">Services</a>
           </li>
           <li>
             <a className='font-Ovo' onClick={closeMenu} href="#contact">Contact Me</a>
